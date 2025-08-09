@@ -1,3 +1,3 @@
 import psycopg2
 
-print("hello")
+print('hello')
